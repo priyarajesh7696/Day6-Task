@@ -1,0 +1,82 @@
+oops :- object oriented programming
+javascript has inherited some features
+/*class Person {
+    constructor(name,age,gender,salary){
+        this.name =name;
+        this.age=age;
+        this.gender=gender;
+        this.salary=salary;
+
+    }
+}
+const person1 = new Person("priya","30","female",25000);
+console.log(person1.name);
+console.log(person1.age);
+console.log(person1.gender);
+console.log(person1.salary);
+const person2 = new Person("rajesh","30","male","50000",12,"asd");
+console.log(person2);
+console.log(person1);
+
+
+class Car {
+    constructor(brand,model,color,year)
+    {
+        this.brand = brand;
+        this. model = model;
+        this.color=color;
+        this.year=year;
+    }
+    drive()
+    {
+        console.log("Driving the car");
+    }
+    brake()
+    {
+        console.log("applying the brake");
+    }
+} 
+ const car1 = new Car("Hundai","1504","black",1899);
+ const car2 = new Car("suzeki","1234","red",1999);
+ const car3 = new Car("swift","1122","white",2000);
+ console.log(car1,car2,car3);
+ car.drive();
+ car1.brake();
+ console.log(car2);
+ console.log(car3.year);
+ console.log(`All the car Brands are 
+ car1 : ${car1.brand}
+ car2  : ${car2.brand}
+ car3 : ${car3.brand}
+ `);
+ */
+// const users = {
+//     set name(n){
+//         console.log("setting a name");
+//         this._name = n;
+//     },
+//      get name(){
+//         console.log("getting a name");
+//         return this._name;
+//      }
+// };
+
+// users.name = "priya";
+// console.log(users.name);
+
+// class Car{
+//     constructor(power1){
+//         this.power1 = power1;
+//     }
+//     set power(n){
+//         console.log(`setting the power up : ${this.power1=n}`);
+//     }
+//     get power(){
+//         console.log(`getting the power : ${this.power1}hp`)
+//     }
+
+// }
+// let car1 = new Car(400);
+// console.log(car1.power1);
+
+// Q1 :
